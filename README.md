@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="afsharsharifi" height="35" width="40"/>
     </a>
     <a href="https://linkedin.com/in/afsharsharifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afsharsharifi" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/afshar-sharifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afshar-sharifi" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/13569971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afshar-sharifi" height="30" width="40" /></a>
     <a href="https://instagram.com/the.afshar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.afshar" height="30" width="40" /></a>
 </p>
 
