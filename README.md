@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ❤️ Working with **Python**
 
 - 💼 Back-end Developers using **Django**
-
+<!--
 - 🔭 I’m currently working on [Scoplant](http://scoplant.com)
-
+-->
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **afsharsharifi2020@gmail.com**
