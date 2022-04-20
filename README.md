@@ -1,5 +1,5 @@
 <h1 align="center">Afshar Sharifi</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Back End Developer</h3>
 
 <ul>
     <li>🔭 I’m currently working on <b>CVGen</b></li>
