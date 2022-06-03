@@ -36,6 +36,4 @@
         <img src="./icons/html-5.svg" alt="python" width="40" height="40" />
         <img src="./icons/css3.svg" alt="python" width="40" height="40" />
         <img src="./icons/bootstrap.svg" alt="python" width="40" height="40" />
-        <img src="./icons/materialize.svg" alt="python" width="40" height="40" />
-        <img src="./icons/tailwindcss.svg" alt="python" width="40" height="40" />
 </p>
