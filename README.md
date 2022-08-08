@@ -2,7 +2,7 @@
 <h3 align="center">Back End Developer</h3>
 
 <ul>
-    <li>🔭 I’m currently working on <b>CVGen</b></li>
+    <!-- <li>🔭 I’m currently working on <b>CVGen</b></li> -->
     <li>🌱 I’m currently learning <b>JavaScript</b></li>
     <li>💬 Ask me about <b>Python</b> - <b>Django</b></li>
     <li>📫 How to reach me: <b><a href="afsharsharifi2020@gmail.com">afsharsharifi2020@gmail.com</a></b></li>
