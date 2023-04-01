@@ -21,7 +21,6 @@
         }
     </style>
     <title>Afshar Sharifi</title>
-
 </head>
 
 <body>
