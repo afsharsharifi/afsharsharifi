@@ -8,7 +8,9 @@
     <li>📫 How to reach me: <b><a href="afsharsharifi2020@gmail.com">afsharsharifi2020@gmail.com</a></b></li>
 </ul>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=afsharsharifi&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=afsharsharifi&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
+</a>
 
 <h3>Contact Me</h3>
 <p>
@@ -28,12 +30,12 @@
 
 <h3>My Skills</h3>
 <p>
-        <img src="./icons/python.svg" alt="python" width="40" height="40" />
-        <img src="./icons/django.svg" alt="python" width="40" height="40" />
-        <img src="./icons/flask.svg" alt="python" width="40" height="40" />
-        <img src="./icons/git.svg" alt="python" width="40" height="40" />
-        <img src="./icons/javascript.svg" alt="python" width="40" height="40" />
-        <img src="./icons/html-5.svg" alt="python" width="40" height="40" />
-        <img src="./icons/css3.svg" alt="python" width="40" height="40" />
-        <img src="./icons/bootstrap.svg" alt="python" width="40" height="40" />
+    <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
+    <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
+    <img src="./icons/flask.png" alt="flask" title="Flask" width="40" height="40" />
+    <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
+    <img src="./icons/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" />
+    <img src="./icons/html-5.svg" alt="html" title="HTML" width="40" height="40" />
+    <img src="./icons/css3.svg" alt="css" title="CSS" width="40" height="40" />
+    <img src="./icons/bootstrap.svg" alt="bootstrap" title="Bootstrap" width="40" height="40" />
 </p>
