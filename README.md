@@ -1,12 +1,12 @@
 <h1 align="center">Afshar Sharifi</h1>
 <h3 align="center">Back End Developer</h3>
 
-<ul>
+<!-- <ul>
     <li>🔭 I’m currently working on <b>Ketabio</b></li>
     <li>🌱 I’m currently learning <b>FastAPI</b></li>
     <li>💬 Ask me about <b>Python</b> - <b>Django</b></li>
     <li>📫 How to reach me: <b><a href="afsharsharifi2020@gmail.com">afsharsharifi2020@gmail.com</a></b></li>
-</ul>
+</ul> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=afsharsharifi&show_icons=true&theme=transparent" alt="Anurag's github stats" />
